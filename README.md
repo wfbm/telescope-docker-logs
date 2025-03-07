@@ -1,11 +1,11 @@
 # Telescope Docker logs
 ## WIP
 
-Inspired by krisajenkins' (telescope-docker.nvim)[https://github.com/krisajenkins/telescope-docker.nvim]
+Inspired by krisajenkins' [telescope-docker.nvim](https://github.com/krisajenkins/telescope-docker.nvim)
 
 Just trying to learn more about nvim.
 
-The idea is to check logs from running containers using (telescope)[https://github.com/nvim-telescope/telescope.nvim]
+The idea is to check logs from running containers using [telescope](https://github.com/nvim-telescope/telescope.nvim)
 
 Inside ~/.config/nvim/init.lua:
 ```lua
